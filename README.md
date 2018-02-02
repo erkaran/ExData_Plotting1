@@ -116,6 +116,9 @@ The four plots that you will need to construct are shown below.
 
 
 ###Important Updates###
+
 1>  code added
+
 2>  library dyplr needed to be loaded
+
 3>  feel free to execute and suggest changes
