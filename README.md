@@ -112,3 +112,10 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+
+
+###Important Updates###
+1>  code added
+2>  library dyplr needed to be loaded
+3>  feel free to execute and suggest changes
